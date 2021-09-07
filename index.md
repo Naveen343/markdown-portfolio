@@ -1,4 +1,5 @@
-![gitpic](https://user-images.githubusercontent.com/56130842/132390168-78a06676-afd1-45a0-9403-f89e4ff79a65.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ---
 layout: default
 ---
